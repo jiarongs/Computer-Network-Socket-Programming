@@ -1,0 +1,69 @@
+dataA.txt:
+
+('Num of Countries:', 3)
+Country vLJcylIR contains 17 interest groups
+	interst group 0 contains 12 users
+	interst group 1 contains 12 users
+	interst group 2 contains 3 users
+	interst group 3 contains 2 users
+	interst group 4 contains 2 users
+	interst group 5 contains 2 users
+	interst group 6 contains 8 users
+	interst group 7 contains 7 users
+	interst group 8 contains 10 users
+	interst group 9 contains 11 users
+	interst group 10 contains 4 users
+	interst group 11 contains 7 users
+	interst group 12 contains 1 users
+	interst group 13 contains 3 users
+	interst group 14 contains 10 users
+	interst group 15 contains 12 users
+	interst group 16 contains 3 users
+Country OVFdGFxAYEKAFhKnBIPA contains 5 interest groups
+	interst group 0 contains 1 users
+	interst group 1 contains 14 users
+	interst group 2 contains 16 users
+	interst group 3 contains 9 users
+	interst group 4 contains 1 users
+Country rw contains 8 interest groups
+	interst group 0 contains 15 users
+	interst group 1 contains 1 users
+	interst group 2 contains 10 users
+	interst group 3 contains 14 users
+	interst group 4 contains 5 users
+	interst group 5 contains 4 users
+	interst group 6 contains 6 users
+	interst group 7 contains 17 users
+
+
+
+
+dataB.txt:
+
+('Num of Countries:', 3)
+Country I contains 2 interest groups
+	interst group 0 contains 3 users
+	interst group 1 contains 2 users
+Country PuUxITbFNSz contains 14 interest groups
+	interst group 0 contains 2 users
+	interst group 1 contains 3 users
+	interst group 2 contains 1 users
+	interst group 3 contains 7 users
+	interst group 4 contains 6 users
+	interst group 5 contains 7 users
+	interst group 6 contains 2 users
+	interst group 7 contains 1 users
+	interst group 8 contains 6 users
+	interst group 9 contains 5 users
+	interst group 10 contains 4 users
+	interst group 11 contains 3 users
+	interst group 12 contains 4 users
+	interst group 13 contains 5 users
+Country tXWMDARHZCWAhqDegKvW contains 7 interest groups
+	interst group 0 contains 28 users
+	interst group 1 contains 27 users
+	interst group 2 contains 39 users
+	interst group 3 contains 16 users
+	interst group 4 contains 7 users
+	interst group 5 contains 38 users
+	interst group 6 contains 6 users
